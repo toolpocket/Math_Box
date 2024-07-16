@@ -13,3 +13,8 @@ def multiply(a, b):
 
 def divide(a, b):
     return a / b
+
+
+def say_Hello():
+    print("Hello")
+    
